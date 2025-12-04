@@ -78,7 +78,8 @@ After internet fluctuation, the message was not delivered. The page had to be re
 ## 🎥 Demo Video
 
 👉 Screen Recording of Running Application:  
-If uploaded to GitHub:
+[If uploaded to GitHub:](https://github.com/mhsanjunaid-dot/my_project/raw/main/assets/video/cometchat-ui-demo.mov
+)
 
 ---
 
