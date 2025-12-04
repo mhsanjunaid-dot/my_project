@@ -71,14 +71,14 @@ After internet fluctuation, the message was not delivered. The page had to be re
 [Users](assets/screenshots/users-list.png)
 
 ### 3. Message Sent
-[Message](assets/screenshots/message-send.png)
+[Message](assets/screenshots/message-sent.png)
 
 ---
 
 ## 🎥 Demo Video
 
 👉 Screen Recording of Running Application:  
-[If uploaded to GitHub:](https://github.com/mhsanjunaid-dot/my_project/raw/main/assets/video/cometchat-ui-demo.mov
+[video:](https://github.com/mhsanjunaid-dot/my_project/raw/main/assets/video/cometchat-ui-demo.mov
 )
 
 ---
